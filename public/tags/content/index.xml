@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on chuck @ home</title>
+    <link>http://example.org/tags/content/</link>
+    <description>Recent content in Content on chuck @ home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 22:22:41 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Reboot</title>
+      <link>http://example.org/posts/a-new-reboot-for-an-old-idea/</link>
+      <pubDate>Fri, 27 Oct 2017 22:22:41 -0500</pubDate>
+      
+      <guid>http://example.org/posts/a-new-reboot-for-an-old-idea/</guid>
+      <description>I&amp;rsquo;ve been considering my silence on the internet for some time. Aside from a few off-the-public-record services, I&amp;rsquo;ve managed to maintain a significant level of radio silence. I think I&amp;rsquo;ve found a topic thats making me willing to break that silence, and has inspired me to put pen to paper again.
+As the state of my beloved internet careens towards an &amp;ldquo;all-encompassing&amp;rdquo; corporate owned experience it makes me weep for what the internet could and probably should be.</description>
+    </item>
+    
+  </channel>
+</rss>

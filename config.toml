@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "chuck @ home"
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+[Params]
+  subtitle = "A recursive experience"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+[Author]
+  name = "Charles Butler"
+  website = "http://dasroot.net"
+  github = "chuckbutler"
+  gitlab = "chuckbutler"
+  telegram = "lazypower"
+  mastodon = "lazypower"
+
+[[menu.main]]
+  name = "Blog"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "https://gitlab.com/users/lazypower/projects"
+  weight = 3
+
+
+[[menu.main]]
+  name = "Archived Blog"
+  url = "http://blog.dasroot.net"
+  weight = 4
+

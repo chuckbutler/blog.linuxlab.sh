@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on chuck @ home</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on chuck @ home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 22:22:41 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content</title>
+      <link>http://example.org/tags/content/</link>
+      <pubDate>Fri, 27 Oct 2017 22:22:41 -0500</pubDate>
+      
+      <guid>http://example.org/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralize</title>
+      <link>http://example.org/tags/decentralize/</link>
+      <pubDate>Fri, 27 Oct 2017 22:22:41 -0500</pubDate>
+      
+      <guid>http://example.org/tags/decentralize/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
