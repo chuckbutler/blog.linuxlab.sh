@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.linuxlab.sh/"
 languageCode = "en-us"
 title = "chuck @ home"
 theme = "beautifulhugo"
@@ -16,7 +16,7 @@ pygmentsCodeFences = true
 
 [Author]
   name = "Charles Butler"
-  website = "http://dasroot.net"
+  website = "https://keybase.io/lazypower"
   github = "chuckbutler"
   gitlab = "chuckbutler"
   telegram = "lazypower"
