@@ -2,9 +2,15 @@ node {
     checkout scm
 
     stage('Build Site') {
-        _sh "docker run -ti -v $PWD:/site gcr.io/personal-1332/hugo"
+      dir('bin'){
+        sh "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-32bit.tar.gz"
+        sh "tar xvfz hugo_0.30.2_Linux-32bit.tar.gz"
+        sh "ls"
+      }
+      sh "./bin/hugo"
     }
-    stage('Publish'){
-        _sh "gsutil rsync -R public gs://blog.linuxlab.sh"
+
+    stage('Publish Site'){
+        sh "gsutil rsync -R public gs://blog.linuxlab.sh"
     }
 }
